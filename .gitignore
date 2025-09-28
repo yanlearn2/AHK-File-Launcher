@@ -1,0 +1,27 @@
+# AutoHotkey 相关文件
+*.tmp
+*.bak
+*.log
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 临时文件
+*~
+*.swp
+*.swo
+
+# 用户特定配置（可选）
+# files.csv
+
+# IDE 文件
+.vscode/
+.idea/
+*.sublime-*
+
+# 测试文件
+test_*
+*_test.*
+debug_*
