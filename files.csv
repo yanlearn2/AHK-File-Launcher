@@ -1,10 +1,10 @@
 # 简化配置格式: 显示名, 路径(多个用分号分隔), 快捷键
-# 快捷键格式: Ctrl+Alt+字母/数字 (如 Ctrl+Alt+R, Ctrl+Alt+1)
-今日日报,D:\Users\l1711\Downloads\Compressed\AHK_File_Launcher_v2\files.csv,Ctrl+Alt+R
+# 快捷键格式: Ctrl+Alt+字母/数字 (如 Ctrl+Alt+R, Ctrl+Alt+1),
+今日日报,D:\Users\Downloads\Compressed\AHK_File_Launcher_v2\files.csv,Ctrl+Alt+R
 上周日报,C:\Work\Reports\上周日报.xlsx,Ctrl+Alt+W
-QMS设计,D:\Users\l1711\Downloads\Compressed\AHK_File_Launcher_v2\111,Ctrl+Alt+Q
+QMS设计,C:\,Ctrl+Alt+Q
 SPC模板,D:\Project\SPC\spc_template.xlsx,Ctrl+Alt+S
 记事本,notepad.exe,Ctrl+Alt+N
 批量工具,C:\Tools\tool1.exe;C:\Tools\tool2.exe,Ctrl+Alt+T
 Python,python.exe,Ctrl+Alt+P
-计算器,calc.exe,Ctrl+Alt+C
+计算器,calc.exe;python.exe,Ctrl+Alt+C
